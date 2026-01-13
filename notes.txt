@@ -1,0 +1,41 @@
+
+
+
+
+
+
+Conditional Statement....
+
+1. if-else (No Limitations)
+2. Switch-Case (Limitations)
+
+
+Rahim => Cycle => Park
+Karim => Car => Shopping
+Rafiq => Walk => Netflix
+Otherwise => Study
+
+
+if(condition1){
+    //Statement...
+}
+elseif(condition2){
+    //Statement...
+}
+elseif(condition3){
+    //Statement...
+}
+else{
+    //Statement...
+}
+
+
+
+Relational Operator...
+==, >, <, >=, <=
+
+10<=10
+
+10==10
+
+Greater or Equal
